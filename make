@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo cp -rf /opt/conf/cfg/* /
+sudo cp -rf /mnt/opt/conf/cfg/* /mnt

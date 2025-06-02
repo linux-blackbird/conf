@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cp -rf /opt/conf/cfg/* /
+cp -rf /opt/cache/conf/cfg/* /
